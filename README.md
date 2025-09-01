@@ -152,22 +152,19 @@ lung-segmentation-gan-unet/
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 📚 Citation
 If you use this work in your research, please cite:
 ```bibtex
 @article{lung_segmentation_gan_unet,
   title={Lung Segmentation with GAN-Enhanced U-Net},
-  author={Your Name},
+  author={jprich1984},
   year={2024},
   journal={GitHub Repository},
-  url={https://github.com/yourusername/lung-segmentation-gan-unet}
+  url={https://github.com/jprich1984/Lung_Segmentation}
 }
 ```
 
 ## 🔗 References
 - [COVID-19 Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
-- U-Net: Convolutional Networks for Biomedical Image Segmentation
-- Generative Adversarial Networks for Medical Image Analysis
+- Ronneberger, O., Fischer, P., & Brox, T. (2015). [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597). arXiv preprint arXiv:1505.04597.
+- Goodfellow, I., et al. (2014). [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661). arXiv preprint arXiv:1406.2661.
