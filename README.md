@@ -111,7 +111,7 @@ python evaluate.py
 | Model | Test Jaccard Score | Test Accuracy | Improvement |
 |-------|-------------------|---------------|-------------|
 | **Baseline U-Net** | 0.9687 | 0.9924 | - |
-| **GAN-Enhanced U-Net** | **0.9757** | **0.9941** | +0.007 Jaccard, +0.0017 Accuracy |
+| **GAN-Enhanced U-Net** | **0.9757** | **0.9941** | +0.7% Jaccard, +0.17% Accuracy |
 
 ### Visual Results
 
