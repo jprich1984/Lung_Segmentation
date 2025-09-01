@@ -1,0 +1,25 @@
+# Ignore model checkpoint files
+best_model.keras
+generator_gan_model.keras
+best_generator_gan_model.keras
+
+# Ignore dataset zip file
+COVID-19_Radiography_Dataset.zip
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python cache files and folders
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore log files
+*.log
+gitHub_Push_Lung_seg.ipynb
